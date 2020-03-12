@@ -1,0 +1,31 @@
+[debug] [2020-03-12T22:57:02.411Z] ----------------------------------------------------------------------
+[debug] [2020-03-12T22:57:02.413Z] Command:       /usr/bin/node /usr/bin/firebase init
+[debug] [2020-03-12T22:57:02.413Z] CLI Version:   7.14.0
+[debug] [2020-03-12T22:57:02.413Z] Platform:      linux
+[debug] [2020-03-12T22:57:02.413Z] Node Version:  v13.10.1
+[debug] [2020-03-12T22:57:02.413Z] Time:          Thu Mar 12 2020 23:57:02 GMT+0100 (Central European Standard Time)
+[debug] [2020-03-12T22:57:02.413Z] ----------------------------------------------------------------------
+[debug] [2020-03-12T22:57:02.413Z] 
+[debug] [2020-03-12T22:57:02.417Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-12T22:57:02.417Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/meru/Software/httpclient-tutorial
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2020-03-12T22:57:06.609Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?pageSize=100  
+ 
+[debug] [2020-03-12T22:57:06.975Z] <<< HTTP RESPONSE 200
